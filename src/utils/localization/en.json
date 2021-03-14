@@ -1,0 +1,17 @@
+{
+    "Profile":{
+        "Intro": " Hello, I am Chahat chugh . I am Working at Kellton Tech as a Software Engineer.I am Highly Expertise in React Native with 2 Years of experience and had worked on very know 4 Projects . At the same time, I Continue my learning for that you can visit my github by simply clicking on VISIT  GITHUB."
+    },
+    "Settings": {
+        "Hello": "Hello",
+        "PleaseEnterName": "Please Enter Name",
+        "EnterName": "Enter Name", 
+        "Submit": "Submit"
+    },
+    "Songs":{
+        "Minute": "Min",
+        "TrackName": "Track Name:",
+        "ArtistName": "Artist Name:",
+        "Time": "Time:"
+    }
+}
