@@ -6,3 +6,5 @@
 4. Songs Detail page opens on Tap of songs item .
 5. Profile Screen has a small introducton and a Github link . Simply, Clicking on "VISIT GITHUB" you can visit My gthub .
 6. Setting Screen have a Text Input which will take a string of maxLength 30 and after submit name is shown above. 
+7. LOADER and PULL TO REFRESH has been implemmented on songs list.
+8. Splash Screen is implemented .
